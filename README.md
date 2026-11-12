@@ -8,6 +8,10 @@
 
 ---
 
+## 🎥 Video
+
+[▶ Ver el video de la práctica en YouTube](https://youtube.com/shorts/PM0sCgb5Exg)
+
 ## 🌐 Página publicada
 
 [Abrir la calculadora en GitHub Pages](https://christiac507.github.io/P4.5-Calculadora_huella_ecologica/C%C3%B3digo/)
